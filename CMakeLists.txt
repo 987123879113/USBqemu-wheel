@@ -223,6 +223,7 @@ SET(HDRS_EYETOY
 
 SET(HDRS_HID
 	./src/usb-hid/hidproxy.h
+	./src/usb-hid/noop.h
 )
 
 SET(SRCS_HID
